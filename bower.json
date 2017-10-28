@@ -1,0 +1,27 @@
+{
+  "name": "jwt-authenticate",
+  "version": "1.0.0",
+  "main": "dist/jwt-authenticate.js",
+  "homepage": "https://github.com/dgrubelic/jwt-authenticate",
+  "authors": [
+    "Davor Grubelić <davor.grubelic@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build",
+    "example"
+  ],
+  "keywords": [
+    "jwt",
+    "auth",
+    "authentication",
+    "oauth",
+    "oauth1",
+    "oauth2"
+  ],
+  "dependencies": {
+    "axios": "^0.17.0"
+  }
+}
